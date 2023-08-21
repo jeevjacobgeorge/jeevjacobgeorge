@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeevjacobgeorge
 - 👀 I’m interested in python,django
-- 🌱 I’m currently a sophomore in computer science engineering
+- 🌱 I’m currently pursuing in computer science engineering
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me jeevjacobgeorge@gmail.com
 
