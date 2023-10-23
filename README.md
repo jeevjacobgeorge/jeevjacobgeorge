@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeevjacobgeorge
 - 👀 I’m interested in python,django,machine learning
-- 🌱 I’m currently pursuing in computer science engineering
-- 💞️ I’m looking to collaborate on anything
+- 🌱 I’m currently pursuing Computer Science Engineering
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me jeevjacobgeorge@gmail.com
 
 <!---
