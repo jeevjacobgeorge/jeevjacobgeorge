@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeevjacobgeorge
-- 👀 I’m interested in python,django,machine learning
+- 👀 I’m experienced in python,backend like django,flask
 - 🌱 I’m currently pursuing Computer Science Engineering
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me jeevjacobgeorge@gmail.com
